@@ -1,4 +1,4 @@
 # lang-basics
 
-Learning is an important for any developer, this repo contains exerices for
-learning new langauges from various resources.
+Continous learning is important for any developer. This repo contains exercises
+I've completed while learning new langauges from various resources.
